@@ -1,0 +1,14 @@
+.gallery-image {
+    margin-bottom: 50px;
+  }
+  
+  .resumo-container {
+    padding: 0 20px;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
